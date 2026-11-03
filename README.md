@@ -58,9 +58,8 @@ The flow is covered by `backend/tests/test_namoid.py` (NamoID responses are
 mocked there).
 
 ## Community project metadata
-
+-**Hackathon project**
 - **Challenge ID:** `responsible-ai-access-gate`
-- **Contributor:** Ishan Jha
 - **Live demo:** Local only for now (`docker compose up --build`)
 - **Final commit:** Added at submission time
 - **Time spent:** About 6 hours
